@@ -11,8 +11,10 @@ This is for Python only, as I haven't used other languages to build Discord Bots
 ```
 Discord Bot/
 |-- bot/
+|   |-- __init__.py
 |   |-- commands/
 |   |   |-- __init__.py
+|
 |
 |-- db/
 |   |-- ddl/
