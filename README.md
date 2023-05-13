@@ -66,7 +66,7 @@ load_dotenv()
 
 bot = lightbulb.BotApp(
     token=os.getenv('BOT_TOKEN'),
-    default_enabled_guilds=[1095866781744250902]
+    default_enabled_guilds=[]
 )
 
 # Add commands
